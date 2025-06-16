@@ -1,7 +1,5 @@
-# talking_avatar-main
+# A Codeless SQL Query Avatar
 An AI-powered avatar that translates natural language questions into SQL queries to retrieve relevant data from a database. This project bridges the gap between users and data by enabling intuitive, conversational access to structured information—no coding required.
-
-Add Chat GPT to the mix and maybe you can have for yourself a nice face to chat with. 🙂
 
 
 ## Run
