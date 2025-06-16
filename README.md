@@ -10,4 +10,4 @@ $ npm start
 ```
 
 ## Backend
-You'll also need https://github.com/WeiQian0810/talking_avatar_backend-main for the text to speech conversion.
+You'll also need https://github.com/WeiQian0810/codeless_sql_query_avatar_backend for the text to speech conversion.
